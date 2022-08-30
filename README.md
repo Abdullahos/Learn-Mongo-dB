@@ -1,4 +1,4 @@
-# ***Copied from : https://gist.github.com/codeSTACKr/53fd03c7f75d40d07797b8e4e47d78ec ***
+# **Copied from : https://gist.github.com/codeSTACKr/53fd03c7f75d40d07797b8e4e47d78ec **
 # Learn-Mongo-dB
 # MongoDB Cheat Sheet 2022
 
